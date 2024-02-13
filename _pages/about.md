@@ -47,6 +47,9 @@ and ideas, thereby enriching the discourse in AI’s role in advancing science.
     <div class="col-sm-4">
       {% include people.html name="Max Tegmark" affiliation="MIT" url="https://physics.mit.edu/faculty/max-tegmark/" img="assets/img/speakers/mt.jpg"%}
     </div>
+    <div class="col-sm-4">
+      {% include people.html name="Dawn Song" affiliation="MIT" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
+    </div>
 </div>
 
 ## Organizers
