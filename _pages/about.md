@@ -61,12 +61,12 @@ Technology" url="https://ling-pan.github.io/" img="assets/img/organizers/lp.jpg"
   {% include people_horizontal.html name="Emmanuel Bengio" affiliation="Recursion" url="https://folinoid.com/" img="assets/img/organizers/eb.jpg" %}
   {% include people_horizontal.html name="Yilun Du" affiliation="MIT" url="https://yilundu.github.io/" img="assets/img/organizers/yd.jpg" %}
   {% include people_horizontal.html name="Dinghuai Zhang" affiliation="Mila" url="https://zdhnarsil.github.io/" img="assets/img/organizers/dz.jpg" %}
-  {% include people_horizontal.html name="Bonaventure F. P. Dossou" affiliation="Mila" url="https://bonaventuredossou.github.io/" img="assets/img/organizers/bd.jpg" %}
+  {% include people_horizontal.html name="Bonaventure F. P. Dossou" affiliation="Mila, McGill University" url="https://bonaventuredossou.github.io/" img="assets/img/organizers/bd.jpg" %}
   {% include people_horizontal.html name="Yoshua Bengio" affiliation="Mila, Université de Montréal" url="https://yoshuabengio.org/" img="assets/img/organizers/yb.jpg" %}
   </div>
 
 ## Contact
-If you have any questions, please contact us at [TBD].
+If you have any questions, please contact us at safe-generative-ai-for-scientific-discovery-workshop@googlegroups.com.
 
 
 
