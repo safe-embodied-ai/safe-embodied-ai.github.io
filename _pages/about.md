@@ -2,9 +2,8 @@
 layout: about
 title: About
 permalink: /about
-nav: true
-nav_order: 1
 subtitle:
+nav: true
 ---
 
 # Safe Generative AI for Scientific Discovery Workshop
@@ -66,7 +65,6 @@ Technology" url="https://ling-pan.github.io/" img="assets/img/organizers/lp.jpg"
   </div>
 
 ## Contact
-If you have any questions, please contact us at safe-generative-ai-for-scientific-discovery-workshop@googlegroups.com.
-
+If you have any questions, please contact us at [safe-generative-ai-for-scientific-discovery-workshop@googlegroups.com](mailto:safe-generative-ai-for-scientific-discovery-workshop@googlegroups.com).
 
 
