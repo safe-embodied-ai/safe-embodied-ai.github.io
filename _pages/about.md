@@ -49,6 +49,9 @@ and ideas, thereby enriching the discourse in AI’s role in advancing science.
     <div class="col-sm-4">
       {% include people.html name="Dawn Song" affiliation="MIT" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
     </div>
+    <div class="col-sm-4">
+      {% include people.html name="Isaac Kohane" affiliation="Harvard" url="https://dbmi.hms.harvard.edu/people/isaac-kohane" img="assets/img/speakers/ik.jpg"%}
+    </div>
 </div>
 
 ## Organizers
