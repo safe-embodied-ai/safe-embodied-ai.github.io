@@ -47,10 +47,13 @@ and ideas, thereby enriching the discourse in AI’s role in advancing science.
       {% include people.html name="Max Tegmark" affiliation="MIT" url="https://physics.mit.edu/faculty/max-tegmark/" img="assets/img/speakers/mt.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Dawn Song" affiliation="MIT" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
+      {% include people.html name="Dawn Song" affiliation="UC Berkley" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Isaac Kohane" affiliation="Harvard" url="https://dbmi.hms.harvard.edu/people/isaac-kohane" img="assets/img/speakers/ik.jpg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Tommi Jaakkola" affiliation="MIT" url="https://people.csail.mit.edu/tommi/" img="assets/img/speakers/tj.jpg"%}
     </div>
 </div>
 
