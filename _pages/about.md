@@ -9,11 +9,7 @@ nav: true
 # Safe Generative AI Workshop
 
 ## Introduction
-Welcome to the Safe Generative AI for Scientific Discovery workshop! The workshop emphasizes on AI safety concerns related to the use of generative models in scientific research. Generative
-models, including large language models, vision-language models, and diffusion models, have significantly aided various
-aspects of scientific discovery. These aspects encompass experimental design, hypothesis formulation, theoretical reasoning,
-and observation organization. However, these models have raised substantial concerns about potential misuse and negative
-scientific and social impacts.
+In recent years, many AI researchers believe that advanced AI systems could potentially put human society at risk, especially if these systems become smarter than humans. Generative models have been the major driving force behind the development of advanced AI in the past two years. This workshop emphasizes AI safety concerns related to the use of generative models in basic machine learning research, scientific discoveries, and industrial/commercial applications. Generative models, including large language models, vision-language models, and diffusion models, have significantly aided various aspects of both academia and industry. In scientific discovery,these aspects encompass experimental design, hypothesis formulation, theoretical reasoning, and observation organization \cite{w}. In commercial applications, generative models such as large language models and diffusion algorithms have changed the lifestyles and workflows of billions around the world. However, these models have raised substantial concerns about potential misuse and negative scientific and social impacts.
 
 Key concerns include:
 - Generation of harmful or biased content.
@@ -24,10 +20,7 @@ Key concerns include:
 - Limited robustness in out-of-distribution contexts.
 - Overconfidence in the reliability of generated content.
 
-This workshop aims to convene experts from various fields to address these challenges and explore potential solutions. By
-emphasizing the development of generative models that positively impact scientific progress, the workshop seeks to foster
-collaboration and discussion. It will provide a platform for academics and industry professionals to exchange recent findings
-and ideas, thereby enriching the discourse in AI’s role in advancing science.
+This workshop aims to convene experts from various fields to address these challenges and explore potential solutions. By emphasizing the development of generative models that have positive social and scientific impacts, the workshop seeks to foster collaboration and discussion. It will provide a platform for academics and industry professionals to exchange recent findings and ideas, thereby enriching the discourse on AI's role in advancing human civilization.
 
 ## Attendance
 - When: [TBD]
