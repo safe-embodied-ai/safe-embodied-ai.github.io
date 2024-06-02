@@ -6,7 +6,7 @@ subtitle:
 nav: true
 ---
 
-# Safe Generative AI for Scientific Discovery Workshop
+# Safe Generative AI Workshop
 
 ## Introduction
 Welcome to the Safe Generative AI for Scientific Discovery workshop! The workshop emphasizes on AI safety concerns related to the use of generative models in scientific research. Generative
