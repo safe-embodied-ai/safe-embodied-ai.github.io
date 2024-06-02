@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Safe Generative AI for Scientific Discovery Workshop # the website title (if blank, full name will be used instead)
+title: Safe Generative AI Workshop # the website title (if blank, full name will be used instead)
 first_name: abc
 middle_name: b
 last_name: c
 email: TBD
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Safe Generative AI for Scientific Discovery Workshop@ICML 2024.
+  Safe Generative AI Workshop@NeuRIPS 2024.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
