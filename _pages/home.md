@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
-permalink: /about
+title: Home
+permalink: /home
 subtitle:
 nav: true
 ---
@@ -64,6 +64,6 @@ Technology" url="https://ling-pan.github.io/" img="assets/img/organizers/lp.jpg"
   </div>
 
 ## Contact
-If you have any questions, please contact us at [safe-generative-ai-for-scientific-discovery-workshop@googlegroups.com](mailto:safe-generative-ai-for-scientific-discovery-workshop@googlegroups.com).
+If you have any questions, please contact us at [safe-generative-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).
 
 
