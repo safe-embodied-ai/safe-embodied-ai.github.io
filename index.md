@@ -25,6 +25,11 @@ This workshop aims to convene experts from various fields to address these chall
   - In-person participation: The workshop will be an in-person event and to be held at [TBD].
   - Online perticipation: You can also join the workshop virtually at [TBD].
 
+## Submission Guideline
+
+- Submission Deadline: Aug 30 2024 12:00AM UTC-0
+- Submission Portal: https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SafeGenAi
+
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
