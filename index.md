@@ -28,7 +28,7 @@ This workshop aims to convene experts from various fields to address these chall
 ## Submission Guideline
 
 - Submission Deadline: Aug 30 2024 12:00AM UTC-0
-- Submission Portal: https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SafeGenAi
+- Submission Portal: [OpenReview Portal](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SafeGenAi)
 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
