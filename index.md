@@ -3,10 +3,12 @@ layout: about
 title: Home
 ---
 
-# Safe Generative AI Workshop
+# Safe Generative AI Workshop  @ NeurIPS 2024
+
+### December 15 or 16, 2024 in Vancouver Convention Center, Vancouver, Canada
 
 ## Introduction
-In recent years, many AI researchers believe that advanced AI systems could potentially put human society at risk, especially if these systems become smarter than humans. Generative models have been the major driving force behind the development of advanced AI in the past two years. This workshop emphasizes AI safety concerns related to the use of generative models in basic machine learning research, scientific discoveries, and industrial/commercial applications. Generative models, including large language models, vision-language models, and diffusion models, have significantly aided various aspects of both academia and industry. In scientific discovery,these aspects encompass experimental design, hypothesis formulation, theoretical reasoning, and observation organization \cite{w}. In commercial applications, generative models such as large language models and diffusion algorithms have changed the lifestyles and workflows of billions around the world. However, these models have raised substantial concerns about potential misuse and negative scientific and social impacts.
+In recent years, many AI researchers believe that advanced AI systems could potentially put human society at risk, especially if these systems become smarter than humans. Generative models have been the major driving force behind the development of advanced AI in the past two years. This workshop emphasizes AI safety concerns related to the use of generative models in basic machine learning research, scientific discoveries, and industrial/commercial applications. Generative models, including large language models, vision-language models, and diffusion models, have significantly aided various aspects of both academia and industry. In scientific discovery,these aspects encompass experimental design, hypothesis formulation, theoretical reasoning, and observation organization. In commercial applications, generative models such as large language models and diffusion algorithms have changed the lifestyles and workflows of billions around the world. However, these models have raised substantial concerns about potential misuse and negative scientific and social impacts.
 
 Key concerns include:
 - Generation of harmful or biased content.
@@ -19,16 +21,19 @@ Key concerns include:
 
 This workshop aims to convene experts from various fields to address these challenges and explore potential solutions. By emphasizing the development of generative models that have positive social and scientific impacts, the workshop seeks to foster collaboration and discussion. It will provide a platform for academics and industry professionals to exchange recent findings and ideas, thereby enriching the discourse on AI's role in advancing human civilization.
 
-## Attendance
+## Program Committee Nominations
+
+Call for Reviewers: If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/32dmEuJekgrhxzoW8). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+
+<!-- ## Attendance
 - When: [TBD]
 - Where: 
   - In-person participation: The workshop will be an in-person event and to be held at [TBD].
-  - Online perticipation: You can also join the workshop virtually at [TBD].
+  - Online perticipation: You can also join the workshop virtually at [TBD]. -->
 
 ## Submission Guideline
 
-- Submission Deadline: Aug 30 2024 12:00AM UTC-0
-- Submission Portal: [OpenReview Portal](https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/SafeGenAi)
+Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page for detailed guidelines.
 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
