@@ -38,23 +38,28 @@ Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
-        {% include people.html name="Michael Browstein" affiliation="Oxford University" url="https://www.cs.ox.ac.uk/people/michael.bronstein/" img="/assets/img/speakers/mb.jpg" %}
+        {% include people.html name="Michael Bronstein" affiliation="Oxford" url="https://www.cs.ox.ac.uk/people/michael.bronstein/" img="/assets/img/speakers/mb.jpg" %}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Melanie Mitchell" affiliation="Santa Fe Institute" url="https://melaniemitchell.me/" img="/assets/img/speakers/mm.jpg" %}
+      {% include people.html name="Chelsea Finn" affiliation="Stanford" url="https://ai.stanford.edu/~cbfinn/" img="assets/img/speakers/cf.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Max Tegmark" affiliation="MIT" url="https://physics.mit.edu/faculty/max-tegmark/" img="assets/img/speakers/mt.jpg"%}
-    </div>
-    <div class="col-sm-4">
-      {% include people.html name="Dawn Song" affiliation="UC Berkley" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
+      {% include people.html name="Tommi Jaakkola" affiliation="MIT" url="https://people.csail.mit.edu/tommi/" img="assets/img/speakers/tj.jpg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Isaac Kohane" affiliation="Harvard" url="https://dbmi.hms.harvard.edu/people/isaac-kohane" img="assets/img/speakers/ik.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Tommi Jaakkola" affiliation="MIT" url="https://people.csail.mit.edu/tommi/" img="assets/img/speakers/tj.jpg"%}
+      {% include people.html name="Melanie Mitchell" affiliation="Santa Fe Institute" url="https://melaniemitchell.me/" img="/assets/img/speakers/mm.jpg" %}
     </div>
+    <div class="col-sm-4">
+      {% include people.html name="Dawn Song" affiliation="UC Berkley" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Max Tegmark" affiliation="MIT" url="https://physics.mit.edu/faculty/max-tegmark/" img="assets/img/speakers/mt.jpg"%}
+    </div>
+    
+
 </div>
 
 ## Organizers
