@@ -50,6 +50,8 @@ All submissions should be made through the workshop's [OpenReview portal](https:
 
 Accepted papers will be presented as posters during the workshop. Selected papers may also be invited for spotlight talks.
 
+As part of our commitment to recognizing outstanding research, we will establish 1-3 best paper award(s).
+
 ## Questions?
 
 For any inquiries, please contact: [safe-generative-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).
