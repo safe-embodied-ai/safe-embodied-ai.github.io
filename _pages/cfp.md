@@ -37,8 +37,8 @@ We welcome submissions on a wide range of topics related to safe generative AI, 
 
 All deadlines are 23:59 AoE
 
-- Submission deadline: October 4, 2024
-- Author notification: October 14, 2024
+- Submission deadline: September 25, 2024
+- Author notification: October 9, 2024
 - Camera ready deadline: TBD
 - Workshop date: December 14 or 15, 2024
 
