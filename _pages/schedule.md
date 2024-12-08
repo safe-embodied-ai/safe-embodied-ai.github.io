@@ -13,7 +13,7 @@ nav_order: 2
 | :-----:   | :-----: |
 | 09:00 | 09:40 | Opening remarks: Yoshua Bengio |
 | 09:40 | 10:20 | Invited talk: Max Tegmark |
-| 10:20 | 11:00 | Invited talk |
+| 10:20 | 11:00 | Invited talk: Chelsea Finn |
 | 11:00 | 11:40 | Invited talk: Dawn Song |
 | 11:00 | 11:40 | Invited talk 3 |
 | 11:40 | 13:30 | Poster session & Lunch break |
