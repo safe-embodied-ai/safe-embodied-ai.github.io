@@ -26,22 +26,22 @@ Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
-      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/cf.jpg"%}
+      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/ds.jpg"%}
+      {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/vijay.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Michael Ryoo" affiliation="Stony Brook University, Salesforce AI Research" url="http://michaelryoo.com/" img="assets/img/speakers/ds.jpg"%}
+      {% include people.html name="Michael Ryoo" affiliation="Stony Brook University, Salesforce AI Research" url="http://michaelryoo.com/" img="assets/img/speakers/michael.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Ding Zhao" affiliation="CMU" url="https://safeai-lab.github.io/" img="assets/img/speakers/mt.jpg"%}
+      {% include people.html name="Ding Zhao" affiliation="CMU" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/organizers/yb.jpg"%}
+      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/organizers/michael.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Anushri Dixit" affiliation="UCLA" url="https://www.anushridixit.com/" img="assets/img/organizers/yb.jpg"%}
+      {% include people.html name="Anushri Dixit" affiliation="UCLA" url="https://www.anushridixit.com/" img="assets/img/organizers/anushri.jpeg"%}
     </div>
 
 </div>
