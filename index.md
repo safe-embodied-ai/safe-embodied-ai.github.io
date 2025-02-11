@@ -42,13 +42,13 @@ Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page 
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Dong-Ki Kim" affiliation="Field AI" url="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}
-  {% include people_horizontal.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}
-  {% include people_horizontal.html name="Ali Agha" affiliation="Field AI" url="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}        
-  {% include people_horizontal.html name="Muhammad Fadhil Ginting" affiliation="Stanford University" url="https://scholar.google.com/citations?user=RTycc8AAAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}
-  {% include people_horizontal.html name="Mansur M. Arief" affiliation="Stanford University" url="https://mansurarief.github.io/" img="assets/img/organizers/dl.jpg" %}
-  {% include people_horizontal.html name="Mykel J. Kochenderfer" affiliation="Stanford University" url="https://mykel.kochenderfer.com/" img="assets/img/organizers/dl.jpg" %}
-  {% include people_horizontal.html name="Jason Jabbour" affiliation="Harvard University" url="https://jabbourjason.com/" img="assets/img/organizers/dl.jpg" %}
+  {% include people_horizontal.html name="Dong-Ki Kim" affiliation="Field AI" url="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en" img="assets/img/organizers/dohgki.jpeg" %}
+  {% include people_horizontal.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/organizers/shayegan.jpeg" %}
+  {% include people_horizontal.html name="Ali Agha" affiliation="Field AI" url="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en" img="assets/img/organizers/ali.jpeg" %}        
+  {% include people_horizontal.html name="Muhammad Fadhil Ginting" affiliation="Stanford University" url="https://scholar.google.com/citations?user=RTycc8AAAAAJ&hl=en" img="assets/img/organizers/fadhil.jpeg" %}
+  {% include people_horizontal.html name="Mansur M. Arief" affiliation="Stanford University" url="https://mansurarief.github.io/" img="assets/img/organizers/mansur.jpg" %}
+  {% include people_horizontal.html name="Mykel J. Kochenderfer" affiliation="Stanford University" url="https://mykel.kochenderfer.com/" img="assets/img/organizers/mykel.jpeg" %}
+  {% include people_horizontal.html name="Jason Jabbour" affiliation="Harvard University" url="https://jabbourjason.com/" img="assets/img/organizers/jason.jpg" %}
   </div>
 
 ## Contact
