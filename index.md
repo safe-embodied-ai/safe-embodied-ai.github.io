@@ -38,10 +38,10 @@ Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page 
       {% include people.html name="Ding Zhao" affiliation="CMU" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/organizers/michael.jpeg"%}
+      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/speakers/michael.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Anushri Dixit" affiliation="UCLA" url="https://www.anushridixit.com/" img="assets/img/organizers/anushri.jpeg"%}
+      {% include people.html name="Anushri Dixit" affiliation="UCLA" url="https://www.anushridixit.com/" img="assets/img/speakers/anushri.jpeg"%}
     </div>
 
 </div>
