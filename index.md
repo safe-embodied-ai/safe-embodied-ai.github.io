@@ -5,8 +5,8 @@ title: Home
 
 # Safe Embodied AI: Theory & Practice for Deployability in the Field Workshop @ RSS 2025
 ---
-### **>Date:** TBD
-### **Place:** University of Southern California, Los Angeles, California
+### **> Date:** TBD
+### **> Place:** University of Southern California, Los Angeles, California
 ---
 
 ## Introduction

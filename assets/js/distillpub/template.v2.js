@@ -4920,25 +4920,6 @@ p small {
   color: #888;
 }
 
-.logo {
-  position: relative;
-  font-size: 1.5em;
-  margin-bottom: 3em;
-}
-
-.logo svg {
-  width: 36px;
-  position: relative;
-  top: 6px;
-  margin-right: 2px;
-}
-
-.logo svg path {
-  fill: none;
-  stroke: black;
-  stroke-width: 2px;
-}
-
 </style>
 
 <div class="overlay">
@@ -8911,8 +8892,6 @@ p small {
       }
     }
   }
-
-  var logo = "<svg viewBox=\"-607 419 64 64\">\n  <path d=\"M-573.4,478.9c-8,0-14.6-6.4-14.6-14.5s14.6-25.9,14.6-40.8c0,14.9,14.6,32.8,14.6,40.8S-565.4,478.9-573.4,478.9z\"/>\n</svg>\n";
 
   const headerTemplate = `
 <style>
