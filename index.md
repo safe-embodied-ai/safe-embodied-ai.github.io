@@ -26,7 +26,7 @@ Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
-      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpg"%}
+      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/vijay.jpeg"%}
@@ -38,7 +38,7 @@ Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page 
       {% include people.html name="Ding Zhao" affiliation="CMU" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/organizers/michael.jpg"%}
+      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/organizers/michael.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Anushri Dixit" affiliation="UCLA" url="https://www.anushridixit.com/" img="assets/img/organizers/anushri.jpeg"%}
