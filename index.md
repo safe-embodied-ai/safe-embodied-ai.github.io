@@ -26,23 +26,29 @@ Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
-      {% include people.html name="Chelsea Finn" affiliation="Stanford" url="https://ai.stanford.edu/~cbfinn/" img="assets/img/speakers/cf.jpg"%}
+      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/cf.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Dawn Song" affiliation="UC Berkley" url="https://dawnsong.io/" img="assets/img/speakers/ds.jpg"%}
+      {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/ds.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Max Tegmark" affiliation="MIT" url="https://physics.mit.edu/faculty/max-tegmark/" img="assets/img/speakers/mt.jpg"%}
+      {% include people.html name="Michael Ryoo" affiliation="Stony Brook University, Salesforce AI Research" url="http://michaelryoo.com/" img="assets/img/speakers/ds.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Yoshua Bengio" affiliation="Mila, Université de Montréal" url="https://yoshuabengio.org/" img="assets/img/organizers/yb.jpg"%}
+      {% include people.html name="Ding Zhao" affiliation="CMU" url="https://safeai-lab.github.io/" img="assets/img/speakers/mt.jpg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/organizers/yb.jpg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Anushri Dixit" affiliation="UCLA" url="https://www.anushridixit.com/" img="assets/img/organizers/yb.jpg"%}
     </div>
 
 </div>
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Dong-Ki Kim" affiliation="Field AI" url="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en" img="assets/img/organizers/dohgki.jpeg" %}
+  {% include people_horizontal.html name="Dong-Ki Kim" affiliation="Field AI" url="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en" img="assets/img/organizers/dongki.jpeg" %}
   {% include people_horizontal.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/organizers/shayegan.jpeg" %}
   {% include people_horizontal.html name="Ali Agha" affiliation="Field AI" url="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en" img="assets/img/organizers/ali.jpeg" %}        
   {% include people_horizontal.html name="Muhammad Fadhil Ginting" affiliation="Stanford University" url="https://scholar.google.com/citations?user=RTycc8AAAAAJ&hl=en" img="assets/img/organizers/fadhil.jpeg" %}
