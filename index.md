@@ -3,26 +3,17 @@ layout: about
 title: Home
 ---
 
-# Safe Generative AI Workshop  @ NeurIPS 2024
+# Safe Embodied AI: Theory & Practice for Deployability in the Field Workshop @ RSS 2025
 ---
-### <font color="#1e90ff">Date:</font> <font color="#333">December 15, 2024</font>
-### <font color="#32cd32">Time:</font> 09:00-17:00
-### <font color="#ff6347">Place:</font> Exhibition Hall A, Vancouver Convention Center, Vancouver, Canada
+### **>Date:** TBD
+### **Place:** University of Southern California, Los Angeles, California
 ---
 
 ## Introduction
-In recent years, many AI researchers believe that advanced AI systems could potentially put human society at risk, especially if these systems become smarter than humans. Generative models have been the major driving force behind the development of advanced AI in the past two years. This workshop emphasizes AI safety concerns related to the use of generative models in basic machine learning research, scientific discoveries, and industrial/commercial applications. Generative models, including large language models, vision-language models, and diffusion models, have significantly aided various aspects of both academia and industry. In scientific discovery,these aspects encompass experimental design, hypothesis formulation, theoretical reasoning, and observation organization. In commercial applications, generative models such as large language models and diffusion algorithms have changed the lifestyles and workflows of billions around the world. However, these models have raised substantial concerns about potential misuse and negative scientific and social impacts.
+Despite recent breakthroughs in embodied AI, ensuring the safety, robustness, and deployability of these systems in high-risk settings, such as field robotics, remains a critical challenge. This workshop will focus on safety considerations in outdoor, industrial, and high-stakes environments—characterized by uncertainty, open-world dynamics, and extreme conditions. Developing safe robotic methods requires interdisciplinary collaboration across diverse communities, including robotics, machine learning, statistics, control, human-robot interaction (HRI), and large models. This workshop aims to serve as a platform for fostering such collaboration, advancing both the theoretical foundations and practical applications of safe embodied AI in real-world deployments. Key topics will include uncertainty quantification in large robotic models, risk-aware decision-making, statistical safety guarantees, safe learning, and certifiable learning for field robotics. Additionally, the workshop will cover novel safety metrics, benchmarking methodologies, and the development of high-fidelity simulations to enhance the safety and reliability of field robotics.
 
-Key concerns include:
-- Generation of harmful or biased content.
-- Vulnerability to adversarial attacks.
-- Privacy and security risks.
-- Bias and fairness issues in generated content.
-- Ethical implications of deploying generative AI.
-- Limited robustness in out-of-distribution contexts.
-- Overconfidence in the reliability of generated content.
-
-This workshop aims to convene experts from various fields to address these challenges and explore potential solutions. By emphasizing the development of generative models that have positive social and scientific impacts, the workshop seeks to foster collaboration and discussion. It will provide a platform for academics and industry professionals to exchange recent findings and ideas, thereby enriching the discourse on AI's role in advancing human civilization.
+Key topics include:
+- TBD
 
 ## Program Committee Nominations
 
@@ -30,7 +21,7 @@ Call for Reviewers: If you are interested in contributing to our paper review pr
 
 ## Submission Guideline
 
-Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page for detailed guidelines.
+Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page for detailed guidelines.
 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
@@ -51,16 +42,14 @@ Please visit the [Call for papers](https://safegenaiworkshop.github.io/cfp) page
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Dianbo Liu" affiliation="National University of Singapore" url="https://www.cogai4sci.com/" img="assets/img/organizers/dl.jpg" %}
-  {% include people_horizontal.html name="Ling Pan" affiliation="Hong Kong University of Science and
-Technology" url="https://ling-pan.github.io/" img="assets/img/organizers/lp.jpg" %}
-  {% include people_horizontal.html name="Tailin Wu" affiliation="Westlake University" url="https://tailin.org/" img="assets/img/organizers/tw.jpg" %}
-  {% include people_horizontal.html name="Emmanuel Bengio" affiliation="Recursion" url="https://folinoid.com/" img="assets/img/organizers/eb.jpg" %}
-  {% include people_horizontal.html name="Yilun Du" affiliation="MIT" url="https://yilundu.github.io/" img="assets/img/organizers/yd.jpg" %}
-  {% include people_horizontal.html name="Dinghuai Zhang" affiliation=" Microsoft Research" url="https://zdhnarsil.github.io/" img="assets/img/organizers/dz.jpg" %}
-  {% include people_horizontal.html name="Bonaventure F. P. Dossou" affiliation="Mila, McGill University" url="https://bonaventuredossou.github.io/" img="assets/img/organizers/bd.jpg" %}
-  {% include people_horizontal.html name="Yoshua Bengio" affiliation="Mila, Université de Montréal" url="https://yoshuabengio.org/" img="assets/img/organizers/yb.jpg" %}
+  {% include people_horizontal.html name="Dong-Ki Kim" affiliation="Field AI" url="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}
+  {% include people_horizontal.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}
+  {% include people_horizontal.html name="Ali Agha" affiliation="Field AI" url="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}        
+  {% include people_horizontal.html name="Muhammad Fadhil Ginting" affiliation="Stanford University" url="https://scholar.google.com/citations?user=RTycc8AAAAAJ&hl=en" img="assets/img/organizers/dl.jpg" %}
+  {% include people_horizontal.html name="Mansur M. Arief" affiliation="Stanford University" url="https://mansurarief.github.io/" img="assets/img/organizers/dl.jpg" %}
+  {% include people_horizontal.html name="Mykel J. Kochenderfer" affiliation="Stanford University" url="https://mykel.kochenderfer.com/" img="assets/img/organizers/dl.jpg" %}
+  {% include people_horizontal.html name="Jason Jabbour" affiliation="Harvard University" url="https://jabbourjason.com/" img="assets/img/organizers/dl.jpg" %}
   </div>
 
 ## Contact
-If you have any questions, please contact us at [safe-generative-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).
+If you have any questions, please contact us at [safe-embodied-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).
