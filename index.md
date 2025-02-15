@@ -10,18 +10,33 @@ title: Home
 ---
 
 ## Introduction
-Despite recent breakthroughs in embodied AI, ensuring the safety, robustness, and deployability of these systems in high-risk settings, such as field robotics, remains a critical challenge. This workshop will focus on safety considerations in outdoor, industrial, and high-stakes environments—characterized by uncertainty, open-world dynamics, and extreme conditions. Developing safe robotic methods requires interdisciplinary collaboration across diverse communities, including robotics, machine learning, statistics, control, human-robot interaction (HRI), and large models. This workshop aims to serve as a platform for fostering such collaboration, advancing both the theoretical foundations and practical applications of safe embodied AI in real-world deployments. Key topics will include uncertainty quantification in large robotic models, risk-aware decision-making, statistical safety guarantees, safe learning, and certifiable learning for field robotics. Additionally, the workshop will cover novel safety metrics, benchmarking methodologies, and the development of high-fidelity simulations to enhance the safety and reliability of field robotics.
+Despite recent breakthroughs in embodied AI, ensuring the safety, robustness, and deployability of these systems in high-risk settings, such as field robotics, remains a critical challenge. This workshop will focus on safety considerations in unstructured, outdoor, industrial, and high-stakes environments—characterized by uncertainty, open-world dynamics, and extreme conditions. Developing safe robotic methods requires interdisciplinary collaboration across diverse sub-communities, including field robotics, AI safety, robot foundation models, control theory, and formal verification. This workshop aims to serve as a platform for fostering such collaboration, advancing both the theoretical foundations and practical applications of safe embodied AI in real-world field deployments. Bringing together researchers, practitioners, and industry leaders, this workshop aims to foster dialogue between academia and industry, bridging the gap between theoretical advancements and practical deployment. 
 
 Key topics include:
-- TBD
+**Safe Learning-Based Control and Planning:**
+* What are the challenges of integrating safety into learning-based systems?
+* How can we develop certifiable learning machines that enable robots to discover new behaviors while guaranteeing safety, reliability, and efficiency?
+* How to balance the trade-offs between performance and safety to avoid learning overly conservative behavior?
 
-## Program Committee Nominations
+**Safety Guarantees:**
+* How can formal verification be applied to learning-based methods?
+* What methods can provide statistical safety guarantees in field robotics?
+* What role can hybrid approaches—blending traditional methods and learning methods—play in ensuring safety in robotics?
 
-Call for Reviewers: If you are interested in contributing to our paper review process, please complete the [sign-up form](https://forms.gle/32dmEuJekgrhxzoW8). We will publicly acknowledge our program committee members. Your expertise and time dedicated to this effort are greatly appreciated and crucial to the success of the workshop.
+**Risk and Uncertainty:**
+* What are efficient and theoretically grounded methods for computing aleatory and/or epistemic uncertainty in deep learning models?
+* How can risk quantification enhance safety in learning-based control?
+* What are effective strategies for risk- and uncertainty-aware decision-making?
 
-## Submission Guideline
+**Foundation Models in Robotics:**
+* How can LLMs/VLMs/VLAs enhance robotic safety through contextual understanding and reasoning?
+* How can we address hallucinations in foundation models and ensure they do not lead to safety issues?
+* How can we balance performance, latency, and resource constraints when deploying foundation models on the edge?
 
-Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page for detailed guidelines.
+**Validation, Simulation, and Safety Benchmarks:**
+* How can we create high-fidelity, physics-based simulation environments and digital twins to evaluate robotic safety?
+* How can we develop realistic benchmarks, datasets, and standardized metrics for measuring safety in field, industrial, and outdoor robotics?
+* How to define good safety specifications when dealing with image-based inputs?
 
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
