@@ -44,13 +44,13 @@ Please visit the [Call for papers](https://safe-embodied-ai.github.io/cfp) page 
       {% include people.html name="Michael Ryoo" affiliation="Salesforce AI Research, Stony Brook University" url="http://michaelryoo.com/" img="assets/img/speakers/michael.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Ding Zhao" affiliation="CMU" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
+      {% include people.html name="Ding Zhao" affiliation="Carnegie Mellon University" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/speakers/michael.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Anushri Dixit" affiliation="UCLA" url="https://www.anushridixit.com/" img="assets/img/speakers/anushri.jpeg"%}
+      {% include people.html name="Anushri Dixit" affiliation="University of California, Los Angeles" url="https://www.anushridixit.com/" img="assets/img/speakers/anushri.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Sydney M. Katz" affiliation="Stanford University" url="https://sydneymkatz.com/" img="assets/img/speakers/sydney.jpg"%}
