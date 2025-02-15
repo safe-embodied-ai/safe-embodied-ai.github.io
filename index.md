@@ -44,7 +44,7 @@ Key topics include:
       {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Ali Agha" affiliation="Field AI" url="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en" img="assets/img/speakers/ali.jpeg"%}
+      {% include people.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/speakers/shayegan.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Roozbeh Mottaghi" affiliation="FAIR, University of Washington" url="https://roozbehm.info/" img="assets/img/speakers/roozbeh.jpg"%}
@@ -76,7 +76,7 @@ Key topics include:
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Dong-Ki Kim" affiliation="Field AI" url="https://scholar.google.com/citations?user=Yl_3akYAAAAJ&hl=en" img="assets/img/organizers/dongki.jpeg" %}
-  {% include people_horizontal.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/organizers/shayegan.jpeg" %}
+  {% include people_horizontal.html name="Ali Agha" affiliation="Field AI" url="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en" img="assets/img/organizers/ali.jpeg" %}
   {% include people_horizontal.html name="Muhammad Fadhil Ginting" affiliation="Stanford University" url="https://scholar.google.com/citations?user=RTycc8AAAAAJ&hl=en" img="assets/img/organizers/fadhil.jpeg" %}
   {% include people_horizontal.html name="Mansur M. Arief" affiliation="Stanford University" url="https://mansurarief.github.io/" img="assets/img/organizers/mansur.jpg" %}
   {% include people_horizontal.html name="Mykel J. Kochenderfer" affiliation="Stanford University" url="https://mykel.kochenderfer.com/" img="assets/img/organizers/mykel.jpeg" %}
