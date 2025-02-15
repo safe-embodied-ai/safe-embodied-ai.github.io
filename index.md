@@ -5,7 +5,6 @@ title: Home
 
 # Safe Embodied AI: Theory & Practice for Deployability in the Field Workshop @ RSS 2025
 ---
-### **> Date:** TBD
 ### **> Place:** University of Southern California, Los Angeles, California
 ---
 
@@ -13,6 +12,7 @@ title: Home
 Despite recent breakthroughs in embodied AI, ensuring the safety, robustness, and deployability of these systems in high-risk settings, such as field robotics, remains a critical challenge. This workshop will focus on safety considerations in unstructured, outdoor, industrial, and high-stakes environments—characterized by uncertainty, open-world dynamics, and extreme conditions. Developing safe robotic methods requires interdisciplinary collaboration across diverse sub-communities, including field robotics, AI safety, robot foundation models, control theory, and formal verification. This workshop aims to serve as a platform for fostering such collaboration, advancing both the theoretical foundations and practical applications of safe embodied AI in real-world field deployments. Bringing together researchers, practitioners, and industry leaders, this workshop aims to foster dialogue between academia and industry, bridging the gap between theoretical advancements and practical deployment. 
 
 Key topics include:
+
 **Safe Learning-Based Control and Planning:**
 * What are the challenges of integrating safety into learning-based systems?
 * How can we develop certifiable learning machines that enable robots to discover new behaviors while guaranteeing safety, reliability, and efficiency?
@@ -62,7 +62,7 @@ Key topics include:
       {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/vijay.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Ding Zhao" affiliation="Carnegie Mellon University (CMU)" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
+      {% include people.html name="Ding Zhao" affiliation="Carnegie Mellon University" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/speakers/michael.jpg"%}
