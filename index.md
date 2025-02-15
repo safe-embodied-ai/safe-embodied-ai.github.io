@@ -47,25 +47,25 @@ Key topics include:
       {% include people.html name="Ali Agha" affiliation="Field AI" url="https://scholar.google.com/citations?user=36qnUD4AAAAJ&hl=en" img="assets/img/speakers/ali.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/vijay.jpeg"%}
-    </div>
-    <div class="col-sm-4">
       {% include people.html name="Roozbeh Mottaghi" affiliation="FAIR, University of Washington" url="https://roozbehm.info/" img="assets/img/speakers/roozbeh.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Kimin Lee" affiliation="KAIST" url="https://sites.google.com/view/kiminlee" img="assets/img/speakers/kimin.png"%}
+      {% include people.html name="Kimin Lee" affiliation="Korea Advanced Institute of Science & Technology (KAIST)" url="https://sites.google.com/view/kiminlee" img="assets/img/speakers/kimin.png"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Michael Ryoo" affiliation="Salesforce AI Research, Stony Brook University" url="http://michaelryoo.com/" img="assets/img/speakers/michael.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Ding Zhao" affiliation="Carnegie Mellon University" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
+      {% include people.html name="Anushri Dixit" affiliation="University of California, Los Angeles (UCLA)" url="https://www.anushridixit.com/" img="assets/img/speakers/anushri.jpeg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/vijay.jpeg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Ding Zhao" affiliation="Carnegie Mellon University (CMU)" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/speakers/michael.jpg"%}
-    </div>
-    <div class="col-sm-4">
-      {% include people.html name="Anushri Dixit" affiliation="University of California, Los Angeles" url="https://www.anushridixit.com/" img="assets/img/speakers/anushri.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Sydney M. Katz" affiliation="Stanford University" url="https://sydneymkatz.com/" img="assets/img/speakers/sydney.jpg"%}
