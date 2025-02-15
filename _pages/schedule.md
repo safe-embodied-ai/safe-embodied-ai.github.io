@@ -7,18 +7,21 @@ nav: true
 nav_order: 2
 ---
 
-# Schedule
+# Tentative Schedule
 
 | **Start Time (EDT)**{: .h5} | **End Time (EDT)**{: .h5} | **Event**{: .h5} |
 | :-----:   | :-----: |
-| 09:00 | 09:40 | Opening remarks: Yoshua Bengio |
-| 09:40 | 10:20 | Invited talk: Max Tegmark |
-| 10:20 | 11:00 | Invited talk: Chelsea Finn |
-| 11:00 | 11:40 | Invited talk: Dawn Song |
-| 11:00 | 11:40 | Invited talk 3 |
-| 11:40 | 13:30 | Poster session & Lunch break |
-| 13:30 | 15:00 | Oral presentations |
-| 15:00 | 17:00 | Poster session |
+| 08:30 | 09:00 | Opening remark |
+| 09:00 | 10:00 | Invited speakers (safety) |
+| 10:00 | 10:30 | Coffee break |
+| 10:30 | 12:00 | Invited speakers (industry) |
+| 12:00 | 12:30 | Tutorial session |
+| 12:30 | 14:00 | Lunch break |
+| 14:00 | 15:00 | Invited speakers (safety) |
+| 15:00 | 15:30 | Spotlight talks |
+| 15:30 | 16:00 | Coffee break and poster session |
+| 16:00 | 17:30 | Invited speakers (foundation models) |
+| 17:30 | 18:30 | Panel discussion / ending remark |
 {: .table}
 {: .table-striped}
 
