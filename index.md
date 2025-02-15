@@ -11,7 +11,7 @@ title: Home
 ## Introduction
 Despite recent breakthroughs in embodied AI, ensuring the safety, robustness, and deployability of these systems in high-risk settings, such as field robotics, remains a critical challenge. This workshop will focus on safety considerations in unstructured, outdoor, industrial, and high-stakes environments—characterized by uncertainty, open-world dynamics, and extreme conditions. Developing safe robotic methods requires interdisciplinary collaboration across diverse sub-communities, including field robotics, AI safety, robot foundation models, control theory, and formal verification. This workshop aims to serve as a platform for fostering such collaboration, advancing both the theoretical foundations and practical applications of safe embodied AI in real-world field deployments. Bringing together researchers, practitioners, and industry leaders, this workshop aims to foster dialogue between academia and industry, bridging the gap between theoretical advancements and practical deployment. 
 
-Key topics include:
+Key topics include:  
 
 **Safe Learning-Based Control and Planning:**
 * What are the challenges of integrating safety into learning-based systems?
@@ -84,4 +84,4 @@ Key topics include:
   </div>
 
 ## Contact
-If you have any questions, please contact us at [safe-embodied-ai-workshop@googlegroups.com](mailto:safe-generative-ai-workshop@googlegroups.com).
+If you have any questions, please contact us at [safe.embodied.ai@gmail.com](mailto:safe.embodied.ai@gmail.com).
