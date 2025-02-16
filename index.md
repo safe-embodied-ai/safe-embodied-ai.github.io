@@ -47,7 +47,7 @@ Key topics include:
       {% include people.html name="Roozbeh Mottaghi" affiliation="Meta (FAIR), University of Washington" url="https://roozbehm.info/" img="assets/img/speakers/roozbeh.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University&#10;&#13;" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpeg"%}
+      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University &#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/vijay.jpeg"%}
