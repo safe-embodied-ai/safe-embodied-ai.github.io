@@ -44,7 +44,7 @@ Key topics include:
       {% include people.html name="Michael Ryoo" affiliation="Salesforce AI Research, Stony Brook University" url="http://michaelryoo.com/" img="assets/img/speakers/michael.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Roozbeh Mottaghi" affiliation="FAIR, University of Washington" url="https://roozbehm.info/" img="assets/img/speakers/roozbeh.jpg"%}
+      {% include people.html name="Roozbeh Mottaghi" affiliation="Meta (FAIR), University of Washington" url="https://roozbehm.info/" img="assets/img/speakers/roozbeh.jpg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpeg"%}
