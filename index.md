@@ -9,7 +9,7 @@ title: Home
 ---
 
 ## Introduction
-Despite recent breakthroughs in embodied AI, ensuring the safety, robustness, and deployability of these systems in high-risk settings, such as field robotics, remains a critical challenge. This workshop will focus on safety considerations in unstructured, outdoor, industrial, and high-stakes environments—characterized by uncertainty, open-world dynamics, and extreme conditions. Developing safe robotic methods requires interdisciplinary collaboration across diverse sub-communities, including field robotics, AI safety, robot foundation models, control theory, and formal verification. This workshop aims to serve as a platform for fostering such collaboration, advancing both the theoretical foundations and practical applications of safe embodied AI in real-world field deployments. Bringing together researchers, practitioners, and industry leaders, this workshop aims to foster dialogue between academia and industry, bridging the gap between theoretical advancements and practical deployment. 
+Recently, there has been growing interest in developing robotics methods and applications based on foundation models, leveraging their ability to generalize. However, ensuring the safety, robustness, and deployability of these models in high-risk settings, such as field robotics, remains a significant challenge. This workshop will focus on safety considerations in unstructured, outdoor, industrial, and high-stakes environments—characterized by uncertainty, open-world dynamics, and extreme conditions. Developing safe robotic methods requires interdisciplinary collaboration across diverse sub-communities, including field robotics, AI safety, robot foundation models, control theory, and formal verification. This workshop aims to serve as a platform for fostering such collaboration, advancing both the theoretical foundations and practical applications of safe embodied AI in real-world field deployments. Bringing together researchers, practitioners, and industry leaders, this workshop aims to foster dialogue between academia and industry, bridging the gap between theoretical advancements and practical deployment. 
 
 Key topics include:  
 
@@ -41,34 +41,34 @@ Key topics include:
 ## Invited Speakers
 <div class="row projects pt-1 pb-1">
     <div class="col-sm-4">
-      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpeg"%}
-    </div>
-    <div class="col-sm-4">
-      {% include people.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/speakers/shayegan.jpeg"%}
+      {% include people.html name="Michael Ryoo" affiliation="Salesforce AI Research, Stony Brook University" url="http://michaelryoo.com/" img="assets/img/speakers/michael.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Roozbeh Mottaghi" affiliation="FAIR, University of Washington" url="https://roozbehm.info/" img="assets/img/speakers/roozbeh.jpg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Kimin Lee" affiliation="Korea Advanced Institute of Science & Technology (KAIST)" url="https://sites.google.com/view/kiminlee" img="assets/img/speakers/kimin.png"%}
-    </div>
-    <div class="col-sm-4">
-      {% include people.html name="Michael Ryoo" affiliation="Salesforce AI Research, Stony Brook University" url="http://michaelryoo.com/" img="assets/img/speakers/michael.jpeg"%}
-    </div>
-    <div class="col-sm-4">
-      {% include people.html name="Anushri Dixit" affiliation="University of California, Los Angeles (UCLA)" url="https://www.anushridixit.com/" img="assets/img/speakers/anushri.jpeg"%}
+      {% include people.html name="Dorsa Sadigh" affiliation="Stanford University" url="https://dorsa.fyi/" img="assets/img/speakers/dorsa.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Vijay Janapa Reddi" affiliation="Harvard University" url="https://edge.seas.harvard.edu/" img="assets/img/speakers/vijay.jpeg"%}
     </div>
     <div class="col-sm-4">
+      {% include people.html name="Kimin Lee" affiliation="Korea Advanced Institute of Science & Technology (KAIST)" url="https://sites.google.com/view/kiminlee" img="assets/img/speakers/kimin.png"%}
+    </div>
+    <div class="col-sm-4">
       {% include people.html name="Ding Zhao" affiliation="Carnegie Mellon University" url="https://safeai-lab.github.io/" img="assets/img/speakers/ding.jpeg"%}
     </div>
     <div class="col-sm-4">
-      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/speakers/michael.jpg"%}
+      {% include people.html name="Anushri Dixit" affiliation="University of California, Los Angeles (UCLA)" url="https://www.anushridixit.com/" img="assets/img/speakers/anushri.jpeg"%}
     </div>
     <div class="col-sm-4">
       {% include people.html name="Sydney M. Katz" affiliation="Stanford University" url="https://sydneymkatz.com/" img="assets/img/speakers/sydney.jpg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Shayegan Omidshafiei" affiliation="Field AI" url="https://scholar.google.com/citations?user=nm5wMNUAAAAJ&hl=en" img="assets/img/speakers/shayegan.jpeg"%}
+    </div>
+    <div class="col-sm-4">
+      {% include people.html name="Michael Everett" affiliation="Northeastern University" url="https://mfe7.github.io/" img="assets/img/speakers/michael.jpg"%}
     </div>
 
 </div>
